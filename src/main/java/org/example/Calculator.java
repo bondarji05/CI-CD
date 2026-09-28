@@ -26,6 +26,7 @@ public class Calculator {
      * @param a уменьшаемое
      * @param b вычитаемое
      * @return разность чисел a и b
+     * @since 1.0.0
      */
     public int subtract(int a, int b) {
         return a - b;
